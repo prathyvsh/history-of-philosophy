@@ -1,13 +1,19 @@
 * History of Philosophy
 
-** Early Greeks
-*** Heraclitus (535 – 475 B.C)
+* Early Greeks
+* Heraclitus (535 – 475 B.C)
 
 [[./img/heraclitus.jpg]]
 
-*** Parmenides (515 – ? B.C.)
+* Parmenides (515 – ? B.C.)
 
 [[./img/parmenides.jpg]]
+
+* Socrates (470 – 399 B.C.)
+
+** [[https://en.wikipedia.org/wiki/Analogy_of_the_sun][Analogy of the Sun]]
+
+* Glaucon (445 – ? B.C.)
 
 ** God question
 

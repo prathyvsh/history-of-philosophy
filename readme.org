@@ -40,6 +40,10 @@
 
 *** Why is there something rather than nothing?
 
+*** Works on Leibniz
+**** Leibniz’ Logic - Lenzen (2004)
+**** [[http://mally.stanford.edu/leibniz.pdf][A (Leibnizian) Theory of Concepts]]
+
 ** Baconian Empiricism
 
 ** Francesco Patrizi

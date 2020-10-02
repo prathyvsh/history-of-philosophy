@@ -40,7 +40,10 @@ Considered to be the founder of tradition of scientific thought in medieval Oxfo
 
 He wrote a lot of manuscripts on various phenomena and had an experential slant to them.
 
-** De Luce
+** [[https://philpapers.org/rec/RIEERG][De Luce]]
+
+** Articles on Grosseteste
+[[https://arxiv.org/ftp/arxiv/papers/1404/1404.3371.pdf][Robert Grosseteste’s thought on Light and Form of the World]]
 
 * Idea of Universals
 ** Universalia Ante Rem / Universalia In Re / Universalia Post Rem

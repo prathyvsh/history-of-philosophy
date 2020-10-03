@@ -29,7 +29,15 @@
 
 * Basil of Caesarea
 
+* Marcus Terentius Varro (116 – 27 B.C.)
+
+* Pliny the Elder (23/24 — 79 A.D.)
+
+* Quintillian (35 - 100 A.D.)
+
 * Proclus (412 — 48 A.D.)
+
+* Marcus Vitriuvius Pollio (80/70 B.C – 15 B.C.)
 
 * Medieval Philosophy
 
@@ -64,6 +72,8 @@ https://onartandaesthetics.com/2017/08/09/a-cosmology-of-light-the-vision-of-rob
 **** [[http://mally.stanford.edu/leibniz.pdf][A (Leibnizian) Theory of Concepts]]
 
 ** Baconian Empiricism
+
+** Thomas Browne
 
 ** Francesco Patrizi
 

@@ -1,6 +1,13 @@
 * History of Philosophy
 
 * Early Greeks
+
+* Thales (624/23 – 548/545 B.C.)
+
+* Anaximander (610 – 546 B.C.)
+
+* Anaximenes of Miletus (586 – 526 B.C.)
+
 * Heraclitus (535 – 475 B.C)
 
 [[./img/heraclitus.jpg]]
@@ -18,6 +25,12 @@
 ** God question
 
 ** Problem of Evil
+
+* Hippolytus
+
+* Aristophanes
+
+** Clouds
 
 * Plotinus (205 – 270)
 

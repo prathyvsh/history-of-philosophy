@@ -16,6 +16,9 @@
 
 [[./img/parmenides.jpg]]
 
+* Events
+The rise of alphabet in the 8th century B. C. in Greece. The alphabets enabled the crystallization of stories, beliefs, theories, and myths which were recorded as bodies of text that could then be analyzed and criticized by later generations.
+
 * Socrates (470 – 399 B.C.)
 
 ** [[https://en.wikipedia.org/wiki/Analogy_of_the_sun][Analogy of the Sun]]
@@ -35,6 +38,11 @@
 * Plotinus (205 – 270)
 
 ** Enneads
+
+* Herodotus (485 – 430 B.C.)
+Commonly called the father of history
+
+* Hippocrates of Cos (460 – 370 B.C.)
 
 * Claudius Galenus (129 – 200/216 A.D.)
 

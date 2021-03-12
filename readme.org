@@ -6,7 +6,15 @@
 
 * Anaximander (610 – 546 B.C.)
 
+Said to be the pupil and successor of Thales
+
+** On Nature
+
 * Anaximenes of Miletus (586 – 526 B.C.)
+
+** Son of Anaximander
+
+Regarded as the greatest of the three Milesians
 
 * Heraclitus (535 – 475 B.C)
 
@@ -16,8 +24,12 @@
 
 [[./img/parmenides.jpg]]
 
+One and the Many
+
 * Events
 The rise of alphabet in the 8th century B. C. in Greece. The alphabets enabled the crystallization of stories, beliefs, theories, and myths which were recorded as bodies of text that could then be analyzed and criticized by later generations.
+
+* Zeno of Elea
 
 * Socrates (470 – 399 B.C.)
 
@@ -31,13 +43,30 @@ The rise of alphabet in the 8th century B. C. in Greece. The alphabets enabled t
 
 * Hippolytus
 
+Christian apologist of third century Rome
+
+* Pythagoras (570 B.C. – 495 B.C.)
+
+Orphic theme
+Myth of Dionysus
+
+* Cratylus
+Follower of Heraclitus
+
+* Xenophanes (570 – 480 B.C.)
+
+* Leucippus (450 – 390 B.C.)
+
+* Democritus (460 – 357 B.C.)
+
+Pupil of Leucippus
+
+* Epicurus (341 – 270 B.C.)
+Pupil of Democritus
+
 * Aristophanes
 
 ** Clouds
-
-* Plotinus (205 – 270)
-
-** Enneads
 
 * Herodotus (485 – 430 B.C.)
 Commonly called the father of history
@@ -59,6 +88,12 @@ Diallelos Tropos
 * Pliny the Elder (23/24 — 79 A.D.)
 
 * Quintillian (35 - 100 A.D.)
+
+* Plutarch (45 – 120 A.D.)
+
+* Plotinus (205 – 270 A.D.)
+
+** Enneads
 
 * Proclus (412 — 48 A.D.)
 

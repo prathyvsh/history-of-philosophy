@@ -70,6 +70,12 @@ Founded by Parmenides. Members are Zeno, and Melissus. Xenophanes is sometimes c
 
 * Plato (428/427 – 424/423 B.C.)
 
+** Problem of universals
+
+Ante res / Rebus / Post res
+
+The third division is derived from [[https://en.wikipedia.org/wiki/Structuralism_(philosophy_of_mathematics)#Varieties][Stewart Shapiro’s trichotomy]]
+
 * Archytas of Tarentum (435/410 – 360/350 B.C.)
 
 ** Scientist of the Pythagorean school

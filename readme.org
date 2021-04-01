@@ -16,6 +16,17 @@ Said to be the pupil and successor of Thales
 
 Regarded as the greatest of the three Milesians
 
+* Schools of Ancient Greek Thought
+
+** Eleatic
+** Socratic
+** Platonic
+** Cynic
+** Megarian
+** Aristotelian
+** Epicurean
+** Stoic
+
 * Heraclitus (535 – 475 B.C)
 
 [[./img/heraclitus.jpg]]
@@ -40,6 +51,14 @@ Founded by Parmenides. Members are Zeno, and Melissus. Xenophanes is sometimes c
 * Socrates (470 – 399 B.C.)
 
 ** [[https://en.wikipedia.org/wiki/Analogy_of_the_sun][Analogy of the Sun]]
+
+* Euclides of Megara
+
+* Aristippus of Cyrene (c. 435 – c. 355 B.C.)
+
+* Antisthenes (c. 445 – c. 360 B.C.)
+
+* Diogenes of Sinope
 
 * Glaucon (445 – ? B.C.)
 

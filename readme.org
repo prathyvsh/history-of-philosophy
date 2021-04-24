@@ -144,8 +144,6 @@ Statesman and orator
 * Euripides
 Considered to be one of the three tragedians in ancient Greek
 
-* Democritus (460 – 370 B.C.)
-
 * Aristophanes
 
 ** Clouds
@@ -154,6 +152,26 @@ Considered to be one of the three tragedians in ancient Greek
 Commonly called the father of history
 
 * Hippocrates of Cos (460 – 370 B.C.)
+
+* Hellenistic Period
+
+* Epicurus (341 – 271 A.D.)
+
+* Zeno of Citium (333 – 262 B.C.)
+
+* Chrysippus (280 – 207 B.C.)
+
+* Panaetius (185 – 110/109 B.C.)
+
+* Posidonius (135 – 51 B.C.)
+
+* Seneca (4 B.C. – 45 A.D.)
+
+* Epictetus (~50 – ~120 A.D.)
+
+* Marcus Aurelius
+
+* Lucretius (99 – 55 B.C.)
 
 * Claudius Galenus (129 – 200/216 A.D.)
 
@@ -194,6 +212,8 @@ Diallelos Tropos
 
 ** Neoplatonist philosopher
 
+* St. Jerome (340 – 420 A.D.)
+
 * Theodoret (393 – 458/466 A.D.)
 
 * Eusebius of Caesarea (260/265 – 339/340 A.D.)
@@ -203,6 +223,8 @@ Diallelos Tropos
 * Calcidius (fl. 4th century A.D.)
 
 * Marcus Vitriuvius Pollio (80/70 B.C – 15 B.C.)
+
+* Boethius (477 – 524 A.D.)
 
 * Medieval Philosophy
 
@@ -236,21 +258,27 @@ https://onartandaesthetics.com/2017/08/09/a-cosmology-of-light-the-vision-of-rob
 **** Leibniz’ Logic - Lenzen (2004)
 **** [[http://mally.stanford.edu/leibniz.pdf][A (Leibnizian) Theory of Concepts]]
 
-** Baconian Empiricism
+* Baconian Empiricism
 
-** Thomas Browne
+* Thomas Browne
 
-** Francesco Patrizi
+* Jeremy Mill
 
-** Rousseau
+* Jeremy Bentham (1748 – 1832)
 
-** Immanuel Kant
+* John Stuart Mill (1806 – 1873)
 
-** Fitche
+* Francesco Patrizi
 
-** Hegel
+* Rousseau
 
-** Nietzche
+* Immanuel Kant
+
+* Fitche
+
+* Hegel
+
+* Nietzche
 
 * George Jardine (1742 - 1827)
 
@@ -274,32 +302,32 @@ https://onartandaesthetics.com/2017/08/09/a-cosmology-of-light-the-vision-of-rob
 
 ** A New Translation of Aristotle’s Rhetoric; with an Introduction and Appendix, Explaining its Relation to his Exact Philosophy, and Vindicating that Philosophy, by Proofs that all Departures from it have been Deviations into Error (1823)
 
-** Étienne Bonnot de Condillac (30 September 1714 – 2/3 August 1780)
+* Étienne Bonnot de Condillac (30 September 1714 – 2/3 August 1780)
 
-** Pierre-Simmon Laplace (23 March 1749 – 5 March 1827)
+* Pierre-Simmon Laplace (23 March 1749 – 5 March 1827)
 
 ** Ecumenism
 
 ** Logicism
 
-** Formalism
+* Formalism
 
-** Husserl
+* Husserl
 
-** Russell
+* Russell
 
-** Logical Empiricism
+* Logical Empiricism
 
 ** Nominalists
 
-** Teleonomy vs. Teleology Divide
+* Teleonomy vs. Teleology Divide
 
 *** Colin Pittendrigh
 https://en.wikipedia.org/wiki/Teleonomy
 
-** Category Theory
+* Category Theory
 
-** Resources
+* Resources
 
 *** [[https://homepage.univie.ac.at/maximilian.noichl/full/zoom_final/index.html][Map of Philosophy by Maximillian Noichl (2019)]]
 [[http://archive.is/TPTIN/bab6d0847c08d5f3efa5f034f62223d354c4681c.png]]

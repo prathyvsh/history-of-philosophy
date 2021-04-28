@@ -260,6 +260,12 @@ Diallelos Tropos
 
 ** Enneads
 
+* Poryphry (232 – 305 A.D.)
+
+Pupil of Plotinus
+
+* Iamblichus (c. 245 – c. 325)
+
 * Amelius (fl. 2nd half of 3rd century A.D.)
 
 ** Neoplatonist philosopher
@@ -270,7 +276,9 @@ Diallelos Tropos
 
 * Eusebius of Caesarea (260/265 – 339/340 A.D.)
 
-* Proclus (412 — 48 A.D.)
+* Proclus (410/412 — 485 A.D.)
+
+** Elements of Theology
 
 * Calcidius (fl. 4th century A.D.)
 
@@ -278,7 +286,11 @@ Diallelos Tropos
 
 * Boethius (477 – 524 A.D.)
 
+* Pseudo-Dionysius the Areopagite (fl. 5th-6th century A.D.)
+
 * Medieval Philosophy
+
+* John Scotus Eriugena (c. 800 – c. 877)
 
 * Peter Lombard (c. 1096 – 1160)
 
@@ -301,6 +313,10 @@ He wrote a lot of manuscripts on various phenomena and had an experential slant 
 * Metaphysics of Light
 
 ** [[https://philarchive.org/archive/SPAPAO][Physics and optics in Dante’s Divine Comedy]]
+
+* Meister Eckhardt (c. 1260 – 1327)
+
+* St. John of the Cross (1542 – 1591)
 
 ** Articles
 https://onartandaesthetics.com/2017/08/09/a-cosmology-of-light-the-vision-of-robert-grosseteste-c-1170-1253-bishop-of-lincoln/

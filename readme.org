@@ -379,13 +379,21 @@ https://onartandaesthetics.com/2017/08/09/a-cosmology-of-light-the-vision-of-rob
 * Idea of Universals
 ** Universalia Ante Rem / Universalia In Re / Universalia Post Rem
 
-** Gottfried Wilhelm Leibniz
+* George Dalgarno (1616 – 1687)
 
-*** Why is there something rather than nothing?
+** Ars Signorum vulgo Character Universalis et. Lingua Philosophica
 
-*** Works on Leibniz
-**** Leibniz’ Logic - Lenzen (2004)
-**** [[http://mally.stanford.edu/leibniz.pdf][A (Leibnizian) Theory of Concepts]]
+* John Wilkins (1614 – 1672)
+
+** An Essay Toward a Real Character and a Philosophical Language
+
+* Gottfried Wilhelm Leibniz
+
+** Why is there something rather than nothing?
+
+** Works on Leibniz
+*** Leibniz’ Logic - Lenzen (2004)
+*** [[http://mally.stanford.edu/leibniz.pdf][A (Leibnizian) Theory of Concepts]]
 
 * Baconian Empiricism
 

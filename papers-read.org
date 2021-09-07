@@ -7,3 +7,32 @@
 Basil Evangelidis (2018)
 15 pages
 
+Leibniz believed that space and time are not real entities but virtual relationships and mathematical concepts. He was led to this conclusion through the problem of the relationship of the mind with space, the study of the nature of the continuous in various mathematical fields, and the observation of linear and centrifugal movement, as well as the confrontation with atomism based on the assumption of the inexistence of vacuum.
+
+Space is an order of coexisting phenomena
+Time is an order of successive phenomena
+
+Simultaneity and Sequentiality.
+
+Today we call this view Relationalism: spatial and temporal relationships between objects and events are immediate and not reducible to space-time point relations, and all movement is the relational movement of bodies. The controversy about the ontological status of space and time began with the distinction between primary and secondary qualities developed by Democritus, Galileo, Descartes, and Locke.
+
+According to Descartes, primary qualities (e.g., height, width, depth) unlike secondary qualities (e.g., roughness, color), are perceptible with an accuracy that depends on the position of the observer to the physical objects. Primary properties reveal the true nature of the body. Through this distinction, Descartes output meanings, which Leibniz also analyzed. These were:
+1) Observability
+2) the Primary, true nature of the body, the object
+3) Spatial dimensions, as physical characteristics of the physical object
+
+From the above premises, Newton concluded that there is a similar distinction between sensible space and time, where the sensible secondary properties appear, and the completely differently theorized, mathematically defined space and time, where unseen masses and atoms of physics exist.
+
+On the account of this distinction, Newton introduced the terms “absolute/relative, true/apparent, mathematical/common” in Principia: The Mathematical Principles of Natural Philosophy. Since we can imagine that extramundane space without bodies, as an extension, is independent of the bodies, then the space, according to Newton, is certainly not material, but has its own way of existence. Furthermore, absolute and relative motion can be identified by their properties, their causes, and their effects. The absolute acceleration developed during rotation that is observable by the diverting forces from its axis is the high spot of the Newtonian argument.
+
+In summary, Newtonian science distinguished absolute from relative space and time. Absolute, genuine, and mathematical time, in itself, flows regularly due to its nature, without dependence on anything from the exterior. Its other name is continuity. Relative, apparent, and common time is a certain perceptible, external, detailed, and unstable measure of the duration of movement. Absolute space, due to its own nature, without dependence on any factor from the outside, always remains the same and motionless. Relative space is a certain mobile dimension or measure of absolute space.
+
+The famous controversy between Leibniz and Newton was not direct, but was mediated by Clarke, an English theologian. The fields of dispute were meant to be observability, measurement, and experiment. The relational theory of Leibniz was articulated in juxtaposition to the theory of Newton. Leibniz believed that space is something completely relative. That is to say, space is the order of coexistence, as the time is an order of sequences.
+
+Space implies, in terms of possibility, an order of things that exist at the same time, considered as if they existed together, without examining their form of existence. Space is nothing other than the order of existence of concurrent objects.
+
+The frame of reference of space and time involves natural objects and their relations, events, and processes.
+
+For relational theory, the possibility of a material universe as an ensemble that moves either in space or in time is without meaning, as space and time do not exist independently from the order of bodies and incidents in the Universe.
+
+All relational theories for space-time attribute territorial, time, and space-time relations to material objects.

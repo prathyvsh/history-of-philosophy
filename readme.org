@@ -1,5 +1,7 @@
 * History of Philosophy
 
+This is a repository where I catalog the learnings from my researches into various philosophical schools. Following is the main people, schools, ideas, and events that I have found out about when learning philosophy. I also keep a journal where I record my notes from the papers I read [[./papers-read.org][here]]
+
 * Early Greeks
 
 * Thales (624/23 – 548/545 B.C.)

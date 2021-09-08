@@ -26,7 +26,6 @@ From the above premises, Newton concluded that there is a similar distinction be
 On the account of this distinction, Newton introduced the terms “absolute/relative, true/apparent, mathematical/common” in Principia: The Mathematical Principles of Natural Philosophy. Since we can imagine that extramundane space without bodies, as an extension, is independent of the bodies, then the space, according to Newton, is certainly not material, but has its own way of existence. Furthermore, absolute and relative motion can be identified by their properties, their causes, and their effects. The absolute acceleration developed during rotation that is observable by the diverting forces from its axis is the high spot of the Newtonian argument.
 
 In summary, Newtonian science distinguished absolute from relative space and time. Absolute, genuine, and mathematical time, in itself, flows regularly due to its nature, without dependence on anything from the exterior. Its other name is continuity. Relative, apparent, and common time is a certain perceptible, external, detailed, and unstable measure of the duration of movement. Absolute space, due to its own nature, without dependence on any factor from the outside, always remains the same and motionless. Relative space is a certain mobile dimension or measure of absolute space.
-
 The famous controversy between Leibniz and Newton was not direct, but was mediated by Clarke, an English theologian. The fields of dispute were meant to be observability, measurement, and experiment. The relational theory of Leibniz was articulated in juxtaposition to the theory of Newton. Leibniz believed that space is something completely relative. That is to say, space is the order of coexistence, as the time is an order of sequences.
 
 Space implies, in terms of possibility, an order of things that exist at the same time, considered as if they existed together, without examining their form of existence. Space is nothing other than the order of existence of concurrent objects.
@@ -35,4 +34,40 @@ The frame of reference of space and time involves natural objects and their rela
 
 For relational theory, the possibility of a material universe as an ensemble that moves either in space or in time is without meaning, as space and time do not exist independently from the order of bodies and incidents in the Universe.
 
-All relational theories for space-time attribute territorial, time, and space-time relations to material objects.
+All relational theories for space-time attribute territorial, time, and space-time relations to material objects. Yet relations are not an absolute reality within the things, but a determination that thought, intellect, adds to things. All relations are ostensible, that is to say that they are well consolidated phenomena. Space-time relations are not ontologically prior to the relations between natural bodies.
+
+** Innate Mathematical Concepts
+
+According to Leibnizian relationalism, extension or space, surfaces, lines and points are nothing beyond rational entities, innate ideas, and relatons of orders, namely orders of coexistence. Relational truths are based on incidents of a representational nature that take the form subject—predicate. The utmost indivisible units include all their predicates in such a way that the relations are ostensible and reducible to categorical constitutive parts, that is to say attributes.
+
+The space, defined as a series of coexistence is not an empirical but a rational truth: it is a virtual entity. It belongs to a set of entities that are characterized by uniformity and contains no variety The concepts of space and time, as well as other entities of pure mathematics, are not generalizations extracted from raw empiricial material. They are already in our minds, and emerge with experience.
+
+The spatial extension is infinitely divisible and divided. Nevertheless, the true infinite, strictly speaking, is found only in the Absolute, while space is indefinitely extensive.
+
+According to Leibinz, the moments and the points are not parts of time and space, but only terms. Simple terms referring to things come prior to the sums. The parts are real, defined, and prior in comparison to the whole; but in reference to the ideal entities, such as time and space, unity precedes, and the simple terms follow. The parts are only possible, indistinct, arbitrary divisions, following the whole.
+
+Leibniz compared the number with extension and with mathematical bodies. Whereas numbers has no existence without the things measured, the extension and the mathematical bodies are meaningless without entities that act or bear, or without movement. Space, time, and infinity are not real sets; and therefore, we have no positive idea about them. Extension is a reduction from the extended, while the extended is a continuum whose parts exist at the same time.
+
+Extension is a reduction from the extended, while the extended is a continuum whose parts exist at the same time. The mathematical entities are ideal, as for instance the “shape”, which is never exact and strictly specific in nature. It is not even a universally true and clear quality outside thought. The mathematical entities are modalities, undefined quantities, with which we can access the discrete quantities of the real world.
+
+** 1.2 The Continuous
+
+In contrast to Newton, who believed that each point-material object coincides with a point of substantial space, Leibniz treated points as extremities or modalities or modes. The location, without doubt, is nothing more than a way of something, like the former or the latter. A mathematical point itself is nothing but a way, namely an extremity. The extension derives from the position but adheres also continuity to the position. Points are positioned in place, but they neither sustain continuity, nor can they stand by themselves.
+
+The ideal, virtual continua are inherent mathematical ideas and they are not composed of parts or points, nor of moments, because the perception of the moment does not contain a sequence. The continuum is everywhere dense, i.e., solid, homogeneous and ceaseless, a plenum, i.e., without breakage of continuity (uninterrupted.
+
+For Leibniz, space is infinitely divisible — in the Aristotelian sense of possibility. Space and time are an order of potentialities. The spatial relationships, although they build up space, are antecedent and parasitic upon space. The Leibnizian space is not the simple sum of the ideal spatial relations but is prior to its parts and divisions.
+
+Thus appears the unrelenting, the completeness of space, which is quondam, as it is not composed of extensional pieces of finite or infinite dimensional areas, separate from each other by two-dimensional boundaries, but is simply divisible, potentially divided. The apparent change and spatial extension are not authentically continuous, because their sequence is terminated. However, there are differences here: the spatial extension is a static representation, it lacks a privileged set of directions and forms a three-dimensional continuum. The apparent change is irreversible and therefore directional; it forms a linear or one-dimensional continuum.
+
+** 1.3 The Time and the Monad
+
+The Leibnizian theory of time is not articulated with completeness, though it is closely connected with the Monadology. In an earlier letter to Jacob Thomasius, Leibniz wrote that time is nothing else beyond measure of motion. Since each magnitude is a number that consists of parts, why should the definition of time by Aristotle, as a number of change surprise us?
+
+Newton believed that a number of specific event concurrent with one another, they are simultaneous with a certain point in time. According to Leibniz, however, moments constitute only apparent change. A certain phenomenal duration is really dense or actually infinitely divisible, as the physical objects are. Nevertheless, time is uniform or homogeneous; we can divide it an infinite number of times, but it remains prior to its parts, due to the fact that it does not consiste of them. It is an idealized entity that refers to the order of succession-relations in the changing phenomena, when we remove the peculiarities of their relata. The truths concerning the time structure are eternal and determine the changing of the phenomena. The fundamental law of being is temporality or succession. n empty space is something we can imagine, but a gap in time incomprehensible. Leibniz wrote to De Volder that time, in contrast to space, is included both in spiritual and in material things, and therefore in perception, the activity of the Monad.
+
+** 2. The Monads
+
+
+
+

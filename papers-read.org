@@ -106,3 +106,46 @@ On the contrary, Newton, while accepting that many relationships have no observa
 If the movement of the water in the thought experiment was only relative, yaw forces from the rotation axis would be zero. Leibniz however refused to accept absolute acceleration, although he claimed that we must distinguish between “mere relative change” and “absolute true motions of a body”. Leibniz made this distinction only with respect to the cause of movement: In each movement of two material objects, the body that really moves is the cause of the change in itself.
 
 This is not the absolute motion of Newton, but true motion relative to another body. Leibniz characterized the true motion as a subcase of relative motion: the actual motion is relative movement whose cause is the body that really moves. He believed that the centrifugal and centripetal movement are examples of dead forces (potentia motruus) that are infinitely weaker than the living force. What was, according to Leibniz, real and absolute in motion was the driving force, a tendency to move that consists in vis viva, a real and substantial entity, a fundamental absolute quantity which is inherent in substances.
+
+* Leibniz on Pre-established Harmony and Causality
+Jeffrey K. McDonough
+
+There are two realms: one of bodies and efficient causation, one of minds and final causation.
+
+** A Pre-established Harmony: Bodies and Minds
+
+How is it that our minds and bodies can causally effect each other? Leibniz’s novel solution to this mind-body problem is that they can’. The interaction between our minds and bodies that seems so obvious to us is, in reality, an illusion, although “well-founded.”
+
+At just the moment that one forms an intention to move their leg, their leg moves of its own accord. At just the moment that the ball collides with one’s hand, the mind independently comes to experience pain. Leibniz suggests taht mind and body are like two causally independent but synchronized clocks: the appearance of causal interaction between them is an illusion founded on a harmony pre-established by God.
+
+Leibniz’s theory of pre-established harmony feels a bit like Indra’s Pearls where every mind has mutual perception and the whole consists of such mutual perceptions. Drawing on theoretical considerations, Leibniz insists that each mind perceives everything that happens in its world, that is not only in its immediate vicinity, but also across the city, on the other side of the earth, and indeed, on the other side of the universe.
+
+Every body is connected and when a change happens in any body anywhere, a corresponding change occurs in a mind. When a change happens in any mind with a corresponding change in its body, ripple-effects occur in every other existing body.
+
+Leibniz’s theory of pre-established harmony thus ultimately demands not merely the divine coordination of particular mind-body pairs, but even more boldly the divine coordination of each mind with all existing bodies and each body with all existing minds.
+
+Leibniz defends his theory of pre-established harmony by highlighting that it helps to reconcile the metaphysics of Aristotelian-Scholasticism with mechanistic science. Leibniz also, I feel arrived at this theory by examining each of the existing alternatives of the time.
+
+An alternative theory is the theory of physical influx. It posits, as Leibniz understands it, that minds and bodies causalyl interact when something – some form of being — passes from one substance to the other. Although they were often vague on this point, Leibniz’s suggestion that it is baseless.
+
+Definition of this concept from Francisco Suárez, 17th century Scholastic, as per McDonough suggests that genuine causation occurs when a cause transfers some form of being to its effect. It implies that the foot causes the soccer ball to move by transferring something to the soccer ball — perhaps motion or energy — and that a picture of, say, Pelé causes the mental representation of Pelé by transferring something of Pelé image or likeness, first to a medium, then to the sensory organs, and ultimately to the mind.
+
+Leibniz rejects the theory of physical influx as a general theory of causation because he thinks it is simply inconceivable that anything can be transferred from one substance to another.
+
+Leibniz famously argued that monads are windowless: they don’t have any openings to enter through or go out of. If that is taken as axiomatic, then clearly causal interacitons between minds and bodies (or minds and minds) cannot be understood in terms of the theory of physical influx. For if nothing can go in or out of minds, hen they can neither receive from, no impart to, anything, including forms of being, as the theory of physical influx demands.
+
+A second alternative to Leibniz’s theory of pre-established harmony is the theory of occasionalism. The theory had already enjoyed a long history before Leibniz’s time. It found new impetus, however, in suggestive remarks made by Descartes and was developed in vairous ways by second generation Cartesians such as Géraude de Cordemoy, Louis de la Forge, Arnold Geulincx, Johannes Clauberg, and above all, Nicholas Malebranche. The central idea of occasionalism is that God is the only genuine, efficacious cause in the world. Creatures lack any causal efficacy of their own and serve merely as occasions for God’s direct causal intervention.
+
+Although, not popular today, the theory of occasionalism attracted a considerable following in Leibniz’s era and was supported by a raft of formidable arguments some of which continue to motivate some contemporary views on causation.
+
+Leibniz rejects occasionalism for a variety of reasons. According to Leibniz, it is essential to created substances to be loci of causal activity. To suppose that creatures enjoy no causal efficacy of their own would be to reduce them to mere models of God. To Leibniz’s way of thinking, occasionalism thus collapses into the doctrines of Spinoza. Another line of argument draws on Leibniz’s understanding of God’s perfection. Leibniz maintains that his theory of pre-established harmony, according to which Godś design is so perfect that it requires no subsequent corrective intervention, is more suitable to God’s perfection than it is the theory of occasionalism, which would require God to constantly tinker with his creation.
+
+In presenting his theory of pre-established harmony, Leibniz often speaks of there being two realms, a realm of bodies and efficient causation on the one hand, and a realm of souls and final causation on the other.
+
+Material world is affected by efficient causes, whereas the world of souls are affected by the law of appetites or the final causes.
+
+Minds unfold teleologically, that is, they act for the sake of ends. Bodies unfold efficiently, that is, they are driven along by efficient causes in accordance with the laws of nature.
+
+** Causation in the Realm of Bodies
+
+Leibniz contributed to formulating and refining laws of motion. He criticized Descartes’ laws of collision. He vigorously defends a series of conservation laws, including, most faously, the conservation of vis viva. Leibniz seeks to clarify what he sees as the philosophical implications of the laws of nature, defending, in particular, three central theses.

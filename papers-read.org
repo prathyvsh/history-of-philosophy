@@ -108,7 +108,7 @@ If the movement of the water in the thought experiment was only relative, yaw fo
 
 This is not the absolute motion of Newton, but true motion relative to another body. Leibniz characterized the true motion as a subcase of relative motion: the actual motion is relative movement whose cause is the body that really moves. He believed that the centrifugal and centripetal movement are examples of dead forces (potentia motruus) that are infinitely weaker than the living force. What was, according to Leibniz, real and absolute in motion was the driving force, a tendency to move that consists in vis viva, a real and substantial entity, a fundamental absolute quantity which is inherent in substances.
 
-* Leibniz on Pre-established Harmony and Causality
+* [[https://scholar.harvard.edu/files/mcdonough/files/causality_and_preestablished_harmony_penultimate_draft_in_english.pdf][Leibniz on Pre-established Harmony and Causality]]
 Jeffrey K. McDonough
 
 There are two realms: one of bodies and efficient causation, one of minds and final causation.

@@ -1,11 +1,13 @@
 * The Rationalist Metaphysics
 
 * Connection with anamnesis
+
 To learn is to forget
 
 In abstract algebra / category theory there are these universal properties called free and forgetful, the adjoints which are characteristic functors which show duality between concepts are located between this.
 
 For those reading, don’t be scared about the $2 words, they are really simple concepts to understand and once you spot them, they can be seen to recur everywhere. Which is why you have the meme:
+
 Perhaps this discussion group slides are the most accessible ones I have found to this idea.
 
 In computer science they turn out to be really useful concepts. Recently, Jimmy Koppel wrote about them.
@@ -14,7 +16,9 @@ In computer science they turn out to be really useful concepts. Recently, Jimmy 
 
 This is reflected in its logical counterpart as subject vs. predicate distinction. This would mean that the attributes inhere in substances and not the other way around. Therefore, substances are the ultimate constituents of reality.
 
-Aristotelian science classified substances into genera and species. The new science of Bacon and Galileo took quantity and not quality as the decisive factor in the explanation of change. Individual vs. species vs Quantitative or ‘mass’ terms. Cumulativity/Distributivity/Collectivity.
+Aristotelian science classified substances into genera and species. The new science of Bacon and Galileo took quantity and not quality as the decisive factor in the explanation of change. Individual vs. species vs Quantitative or ‘mass’ terms.
+
+** Cumulativity/Distributivity/Collectivity.
 
 The word ‘man’ can be:
 General
@@ -22,6 +26,8 @@ Element of the species
 Or a predicate
 
 Thing vs. Stuff: Thing can be counted, stuff can only be measured. Ordinality vs. Cardinality
+
+Aristotelian idea of primary and accidental substances
 
 The difficulty is said to be that of forcing the idea of quantity, or stuffness into a framework of thingness, namely the substance, attributes, modes, subject, and predicate. This change I think is also related to the way in which induction starts getting advantage over deduction.
 
@@ -33,7 +39,9 @@ Attributed to Anselm of Canterbury, but rudimentary forms of it exists in the or
 Contradictions to this:
 Paraconsistent interpretations:
 Faulty assumptions:
-Begging the question
+Begging the question:
+
+The question of ultimate ontological grounding necessarily runs into Agrippa’s Trilemma
 
 If all that exists is predicated on the necessary being, this turns out to contradict the other theological claim taht man is free and liable to judgement. So how do we reconcile this super-deterministic universe with the existence of free will? This question in many guises is debated and discussed today, most of which doesn’t have God’s ontological existence but that replaced by deterministic scientific laws. Some of the greatest hits of modern philosophy overflows from the attempts to reconcile these eternal laws with human freedom. So this duality / duel between human liberty and constraints imposed by eternal laws would turn out to be a perennial theme in philosophical discourse.
 
@@ -91,6 +99,8 @@ This idea means that two people can relatively have two incommensurable concepti
 The idea of individuation in Spinoza’s theory is played by Conatus. This is the idea of self-striving of an entity to preserve its identity. In Spinoza’s philosophy, God consists of infinite attributes and all the universe inheres in this. But in what sense can we talk about individuation from this whole? This is the role played by conatus which allows us to separate it out in the ideal realm (verify).
 
 Conatus is the causal principle in terms of which we explain the persistence of a thing and its properties. This in a sense is the delineating element between quantity and category. A live cat is a single entity, but only when something is inanimate does it become a lump of clay or a heap of snow. On the expiration of the conatus, animate things can meld in the world of inanimate.
+
+TODO: Detail on how Spinoza’s take on Euthyphro’s dilemma is an emotivist resolution. Detail on how there is distinction between how Spinoza and Leibniz resolves the question.
 
 * Idea / Ideatum
 
@@ -337,3 +347,7 @@ Longo’s ideas of memory in beings connect with this but I am not sure if I sho
 And this part is not entirely clear to me yet, but I think this is a strong reason why above context free languages, we are having a hard time to locate the best algebraic structures to create a composition which has a memory of it's state.
 
 I also think this is a place where coalgebraic notions would excel, but I should keep quiet and finish that essay I am writing on it. There are so many cool ideas in the math/philosophical space that pair up in this space!
+
+** Kantian tripartite categories
+
+** How the original Platonic vs. Pyrrhonic viewpoint shifted into Rationalist vs. Skeptic dialectic and how that transformed into modern constructivist vs. structuralist ideas.

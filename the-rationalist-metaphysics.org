@@ -1,0 +1,339 @@
+* The Rationalist Metaphysics
+
+* Connection with anamnesis
+To learn is to forget
+
+In abstract algebra / category theory there are these universal properties called free and forgetful, the adjoints which are characteristic functors which show duality between concepts are located between this.
+
+For those reading, don’t be scared about the $2 words, they are really simple concepts to understand and once you spot them, they can be seen to recur everywhere. Which is why you have the meme:
+Perhaps this discussion group slides are the most accessible ones I have found to this idea.
+
+In computer science they turn out to be really useful concepts. Recently, Jimmy Koppel wrote about them.
+
+* Aristotelian metaphysics
+
+This is reflected in its logical counterpart as subject vs. predicate distinction. This would mean that the attributes inhere in substances and not the other way around. Therefore, substances are the ultimate constituents of reality.
+
+Aristotelian science classified substances into genera and species. The new science of Bacon and Galileo took quantity and not quality as the decisive factor in the explanation of change. Individual vs. species vs Quantitative or ‘mass’ terms. Cumulativity/Distributivity/Collectivity.
+
+The word ‘man’ can be:
+General
+Element of the species
+Or a predicate
+
+Thing vs. Stuff: Thing can be counted, stuff can only be measured. Ordinality vs. Cardinality
+
+The difficulty is said to be that of forcing the idea of quantity, or stuffness into a framework of thingness, namely the substance, attributes, modes, subject, and predicate. This change I think is also related to the way in which induction starts getting advantage over deduction.
+
+Induction has this internal vs. external perspective shift among things. Every vs. All.
+
+Ontological proof of existence of God
+Attributed to Anselm of Canterbury, but rudimentary forms of it exists in the original Aristotelian canon, and also in commentaries by Ibn Sinna and Al-Farabi. A being whose essence involves existence. The idea of something perfect exists in our minds, if something like this wouldn’t exist in reality, then we would be able to transcend it, by claiming that the perfect thing lacks the attribute of real existence, which contradicts the original proposition, hence it should exist in reality too. In other words, it is a necessary truth that the a most perfect being exists.
+
+Contradictions to this:
+Paraconsistent interpretations:
+Faulty assumptions:
+Begging the question
+
+If all that exists is predicated on the necessary being, this turns out to contradict the other theological claim taht man is free and liable to judgement. So how do we reconcile this super-deterministic universe with the existence of free will? This question in many guises is debated and discussed today, most of which doesn’t have God’s ontological existence but that replaced by deterministic scientific laws. Some of the greatest hits of modern philosophy overflows from the attempts to reconcile these eternal laws with human freedom. So this duality / duel between human liberty and constraints imposed by eternal laws would turn out to be a perennial theme in philosophical discourse.
+
+* Cartesian metaphysics
+
+Descartes programme involved radical rejection of anything which could not be proven. All science is to be founded in metaphysics which is the system of self-evident truths  —  truths that do not require further proof than is involved in understanding them. No proposition can be more certain than the premises which are assumed in the proof of it. Clear and evident propositions thus act as definitions from which the repercussions unfold out.
+
+If these are to be rejected, we land in the Agrippa’s trilemma of infinite regress. So there should be a bound somewhere and these are to be found in the ‘self-evident’ truths that are discovered by the ‘natural light’ of reason.
+
+Descartes took clearness and distinctness as the interior criterion of truth. What it exactly was is still debated but he thought the ideas that presents themselves as clear and distinct to the natural light of reason could be accepted as the first principles upon which our reasoning could be based upon. A clear idea is seen by the mind’s eye and a distinct idea is one that is not mixed with others but is self-contained.
+TODO: May be simple vs. complex image here?
+
+There is a fine balance between innate ideas and experienced ideas vs. analytic vs. synthetic that is happening. This is where also a priori vs. a posteriori comes in. Spinoza says that we need experience in cases where the definition doesn’t allow us to infer the existence. This would then be taken to an extreme in Cartesianism where the whole world of perceptions is reduced to measurable quantities around us.
+
+Scientific methodology in this cast begins from an axiomatic viewpoint where the clear and distinct ideas provide the bedrock from which we build foundations of our knowledge. The quote of Descartes about knowledge that grows both ways is probably also relevant here. And from here we proceed to gain more knowledge through deduction.
+
+Descartes posited that there is an interaction between mind and matter, but without material modifications (verify this, wouldn’t there be some remnants of physical activity in the body as we think?). Spinoza’s way to solve this was to think of these two as two complete systems which have entirely incommensurable bases with which we conceive a single substance. This means a talk about interaction between these two substances is not a coherent idea, they are situated as dual aspects of a single unity. Like how Roger Scruton puts it: “Mind and body occur at isomorphic points of two parallel systems.”
+
+TODO: I think this can be viusalized using two different bases of a space which are incommensurable in terms of their coordinates, but tracks the phenomena / objects in the space. Can I visualize this using two different filters of a lattice? or do I need two different lattices?
+
+* Coincidence of ideal and real
+
+Spinoza’s philosophy starts from the axiomatic basis that reality and conception coincide, relations between ideas correspond exactly to relations in reality.
+
+TODO: How does expressivism build/modify on this position?
+
+This means that substances inhere in others which stand as one’s by which the inhering substances are explained.
+
+When someone says B is in A, it means that A explains B. This is much closer to the concept of a closure / closed set in topology whereby you can explain all the contents inside a closed set as a concept which explains their contents but no content inside it which could be open stands as an independent explanans of what it is. (Verify this claim rigorously.)
+
+Intelligibility as the act of picking out such closed sets or causa sui elements.
+
+TODO: Research and include Mainmonides quote on causa sui.
+
+Leibniz’ scheme can be thought of as a way in which a spectrum was devised between the discrete entities called monads which are at their limits the ideal elementary units and at the other extreme you get the material entities. And this in a very Spinozian fashion were two isomorphic but incommensurate system where you get a duality out of one another. The reflections on monads leading to confused and clarified “perceptions” which in effect lead to internal changes called “appetitions”.
+
+* Substance, essence, attributes, modes
+
+Substance is that which stands alone and we can have an ‘adequate’ idea of its existence. Essence of substance involves existence, and it cannot therefore be conceived except as existing. Thus the first axiom consists of assuming a necessary existence of substance.
+
+Essence of a thing is that which when granted necessarily involves the grating of the thing and which when removed, necessarily involves the removal of the thing. It is that without which the thing and conversely, the that which without the thing can neither exist or be conceived.
+
+TODO: Discuss how existentialist: “Existence precedes essence” would make a converse claim later and discuss how this might be connected with constructivism and intuitionism.
+
+Mode in Spinozian terminology stands for something that captures properties, relations, facts, processes and individuals.
+
+Attribute is that thing which constitutes the essence of the substance: as thought is to mind. While Descartes distinguished principal attribute from other attributes, Spinoza extended this to that which the intellect perceives as constituting the essence of a substance and that there are several/infinitely many attributes.
+
+An attribute is that by which the mind perceives to be the essence of a substance An attribute is that which is  “attributed” by the mind to an aspect of the substance.
+
+This idea means that two people can relatively have two incommensurable conceptions of a same thing via attributes. The same fundamental reality expresses itself in various accidents called modes, from which we can infer via different set of bases of attributes the essence of a concept. Much like how two different ideals can capture the same downsets (Verify rigorously and illustrate with the help of a lattice diagram).
+
+* Conatus
+
+The idea of individuation in Spinoza’s theory is played by Conatus. This is the idea of self-striving of an entity to preserve its identity. In Spinoza’s philosophy, God consists of infinite attributes and all the universe inheres in this. But in what sense can we talk about individuation from this whole? This is the role played by conatus which allows us to separate it out in the ideal realm (verify).
+
+Conatus is the causal principle in terms of which we explain the persistence of a thing and its properties. This in a sense is the delineating element between quantity and category. A live cat is a single entity, but only when something is inanimate does it become a lump of clay or a heap of snow. On the expiration of the conatus, animate things can meld in the world of inanimate.
+
+* Idea / Ideatum
+
+To every idea in the ideal space corresponds exactly an ideatum in the material space. Every idea is of its ideatum and every idea has an extrinsic mark of truth namely an exact and necessary correspondence to its ideatum. This means that false ideas fail to possess the ‘intrinsic’marks of truth. Error stems from our failure to grasp the full system of ideas and their relations of dependence which holds between them; hence we remain confused and have partial conceptions of things. Replacing these by adequate ideas, we can have conception of things as they are.
+
+The adequate idea is equated to be the same as a true idea, where the designator of true stands for the connection between the idea and the ideatum, while adequate describes the nature of the idea with respect to its relations within the enmeshed network.
+
+Spinoza uses the word ‘objectum’ for the representational content of the idea, reserving the word ‘ideatum’ for its correlate.
+TODO: I think Category Theory can be leveraged to a good degree to understand the nuances here.
+
+Within the idea of something is true, is intertwined, the ideas of concept/perception/proposition, the material/mental/ideal are intertwined and needs to be separated out as is done in the medieval literature between body/spirit/soul.
+
+Spinoza’s idea had three levels of knowledge, like the three of Plato and four of Aristotle (TODO: What are they?)
+
+- Notion of universals (notio universalis)
+- Notion of commons (notiones communes)
+- Intuition (scientia intuitiva)
+
+The idea of progressing through these stages to reach an adequate conception of God in the limit of apprehension
+
+Spinoza’s theory of truth and cognition says that the first kind of cognition is the only cause of falsity, whereas cognition of second and third kind are necessarily true. From our point of view, the truth of an idea is given in its logical connectednes to the system of ‘adequate’ ideas, and not merely in its extrinsic correspondence with its ideatum. The advancement of knowledge is in proceeding from the first level progressively until at the limit of apprehension all that we cognize follows from the adequate idea of the essence of God. (Todo: Verify if I can replace the last adequate idea of God with the Ontological proof).
+
+This is strikingly parallel to the idea of closed sets / closures / ideals in the lattice where the LCM approximates the common product of two factors upwards. We as finite modes of God’s thinking partake in his thought and we can get a correct version of reality insofar as we have adequate ideas.
+
+God as a concept beyond time and space and emanating from this eternal nature is the logical chain of causality.
+
+*** Sub specie aeternitatis / Sub specie durationis
+An adequate conception of the wold is sub specie aeternitatis; which is how he sees the world and this vision is how we see the world qua (in so far as / in our capacity of) our participation in this vision of God.
+
+The highest ideal of reason is to reach towards this perspective of eternity which allows us to escape from the sub specie durationis.
+
+This idea resonates with the Cartesian idea of ascending from the point of view of the subject to the ‘absolute conception’ of the world that is a conception from no point of view within it. That is the total elimination of the subjective viewpoint. This is the very point Kant would critique and posit as neither possible nor desirable. This I think is one of the most delible marks of bifurcation in the rationalist vs. idealist philosophy. (Or is it? Read up on Hegel/Fitche/Schelling and see how they deal with this).
+
+* The ethical consequences of Spinoza’s philosophical foundation
+
+By considering the idea of sub specie aeternitatis vs. sub specie durationis, one can see that the idea of good and evil arises as a result of our finite modal existence in time. We are pulled by our passions and demands of morality as a result of our first level of cognition. An adequate conception eliminates the dichotomy between reason and passion.
+
+* The Ontological Argument
+
+Spinoza conceives of God as a substance with infinite attributes each of which expresses enternal and infinite essence. He thinks the same about any substance, since a substance is causa sui, they too can be shown to exist by an ontological argument. That which ows its existence to an external cause is of necessity not a substance but a mode. Substance, is always infinite unlimited by anything of the same nature as itself. For to be limited is to be affected by an external cause, thus every substance exists necessarily and infinitely. And if something existed that lacked God’s infinite perfections  —  it would necessarily owe its existence to God and hence would be a mode not a substance.
+
+While Spinozian theory has this monistic bent, Leibniz accepted the ontological argument but came up with a theory in which there are an infinity of substances besides God and they work along together to create the best of all possible worlds.
+
+TODO: This should probably come before the current organization
+
+* Natura Naturans vs. Natura Naturata
+
+Describe how from the bottom (or top) the processes emerge and unfold which is nature in it’s active/creative principle. This continues on till there is no differentiation in the process, at which stage, the whole unfolding pattern (the filter) can be thought of as the bone and marrow which constitute the object and it’s various parts can be studied as it has now become a closed set which can be inspected. This is the Necker cube like transition via duality to the world of things where the ideal processes have now consttructed the material thigs. This world of objects is Natura Naturata. This is the way in which modes get generated from the attributes and substance acts as the context in which this form/content? dual transition takes place. This has a very transcendence/immanence style duality to it , in that the objects can be thought of as immanently constructed by processes or conversely, the objects created as transcending the ideal realm into the realm of material. This I think can also be stated conversely as the ideal realm of processes transcend the material realm of things or things as immanent representations of the processes in ideality. Adequate and clear conception is achieved via the attributes (the ideal parts; ideals?), and partial and confused conception (the material parts; filters?) constitute the modes.
+
+* Simultaneity vs. Sequentiality
+
+TODO: Sketch out how God is not ‘in time’ for Spinoza but consists of eternity in an Eleatic sense and what this means for the strict determinism espoused by such a theory.
+
+Concursus Dei vs. Praevius Dei
+Occassionalism different from pre-established harmony
+
+Give a brief sketch of occasionalism
+
+Give its strong points
+
+Then detail where the objects arose in Leibniz work
+
+* Monads and object oriented programming
+Inter vs. Intra distinction
+
+* Occasionalism
+
+Occasionalism is still around
+
+It would be like a programmer coming into the system to maintain each and every step after the program has been set in motion. And precisely this analogy is what Leibniz uses against occasionalism wondering if the supreme creator’s work is not perfect that he has to come in and interfere at every moment tinkering with the system to make it work.
+
+Leibniz rejects the idea that God recreates the universe at every moment plumbing in the necessary moves to keep the world ticking. So he rejects Occasionalism.
+
+Leibniz also seems to reject the Spinozian style of argument whereby God transmutes into an immanent nature.
+
+Parent to children relationship between God and nature in that the agents in nature have their own agency.
+
+Laws of nature mediate between free will and deterministic outcomes. As I see it at the moment, it is like a lattice where you are free to choose your decisions and accordingly the fixed points of your actions get determined. I will attempt to portray this using more rigorous math terminology once I have unwinded the thread on lattice structures soon.
+
+** TODO: Sketch what Monads are and how monads have the whole representation of the system inside them.
+
+Perception and appetites of the monads are what causes change and this is said to be beyond mechanism with an example given by Leibniz of zooming into a mechanism. You have a perspective into nature and the appetites and perspective of the monads cause the state transition of the parts.
+
+** TODO: May be sketch the Cartesian interactionism idea which was prior to Leibniz
+
+One of the central tenets here is that mind and body doesn’t interact with each other as some sort of clipping in video games, where the mind matter coming in material realm or the matter mind coming into the ideal realm.
+
+Elements of ideal and real interact with each other by means of this pre-established harmony as they are part of a single universe.
+
+There are formalisms that break confluence
+
+It is curious that Alan Kay has mentioned his work to be like Monadology. I thought it was an oblique reference at the time, but the window less nature does make the intra-interactions between monads much like message passing. Because a monad can’t reach inside the other and cause state changes but only through mutual perception like how we communicate in this chat group. Though one thing I think is not enacted in the system is whereby the entire system is represented inside a single monad, I wonder if that wouldn’t be wasteful of the system resources to keep track of the entire system within each. Not sure if there is some clever way by which this can be pulled off.
+
+In the context of computation, it is pretty interesting to look at it the way that he devised calculus as a characteristica universalis and the infinitesimals there has some affinity towards monads.
+
+Calculus situs that he developed is topological. So forms emerge as a result of relations. And I think one can really see the resonance between compossibility and Yoneda’s Lemma as it is found in Category Theory, where you have these theories that were developed to address homology now turned into abstractions. So in essence, Monadology is much closer to actually topology and in there the relations between things are of the essence in a functional sense and the different situations (situs) in which they are related generates the forms, which after further metricization gives us shapes.
+
+This talk by Maximillian Schich I think might be interesting here.
+
+Closely related to Leibniz conception of pre-established harmony is the concept of compossibility. The best of all compossible worlds is in a sense a topologically connected network of relations, maximizing the "bestness" of it in some sense gives us the best of all possible worlds. This is again somewhat connected with Spinoza’s idea of conatus and every being in the universe striving to self-preserve itself at the cost/benefit of the other.
+
+For some reason I had the idea of circular ripples as the metaphor as a way to understand how conatii try to maximize themselves, perhaps this GIF might be a good metaphor for this?
+
+Another interesting thing to notice here is that the axiomata of both the system of Leibniz and Spinoza shared the same profound basis for both of their systems, yet their conclusions couldn’t be more different.
+
+There is also a sense in which Leibniz goes against a Lutherian(?) view that the world is made intelligible to us and not blunted as a result of our fall from paradise.
+
+The story of two monks converting into each other.
+
+And even though all of my knowledge comes from bits and bobs here and there in papers written about Leibniz, I think his is an oeuvre that warrants deeper investigation, not only becomes he was a precursor to some of the ideas of what computation would turn out to be like, but also because he is someone who was after the characteristica universalis, calculus, topology etc., which are natural outgrowths of this project, which he saw as one unified undertaking.
+
+If someone is interested, this paper on Leibniz’s monadology is an interesting one to read.
+
+Uchii has also written a more elaborate version of it which I am yet to read.
+
+Other modes of the substances as negating any other positive attribute thus leading to their determination is also interesting ideas in this context. Makes me think of the control theory idea where you kind of converge in on certain computations by organizing programs as a whole.
+
+Spinoza also takes one in conceiving the immediate infinite as a dynamical system which has all the world lines cohering in it as different modes. This bring us closer to that Eleatic philosophers in some respects.
+
+We might also need to start looking into algebraic effects as they have a sense in which they allows for composition of effects by starting to model effectful functions using arity.
+
+Though I didn’t completely understand the technical details, there is a post that exposes these ideas using typescript/Javascript here.
+
+I feel now it to be all the more important to get into coalgebra and just how (real/complex) analysis/calculus can help us understand computation deeper.
+
+His has an idea of perspectivism in his philosophy.
+
+That is the perception of the monads leads to perspectives in which they realize just how they are connected.
+
+It is not just philosophical interest, but this overflew into his work in mathematics on the investigation of perspectival geometry too. Link to that perspective geometry work.
+
+Also, the genetive / generic definition in mathematics links up with this.
+
+Although, it seems absurd and ridiculous to us today, given how God or any final causes are needed with increasing shifts in our vantage points, there are indeed strains of thought motivated by occasionalism that remains in contemporary scientific thought, though not under the label of occasionalism.
+
+Occasionalism requires constant divine intervention
+
+and Leibniz thought this as counter to God’s perfection in that God has to come in and constantly tinker with his creation.
+
+I guess a good metaphor to think about the harmony between body and soul is like the electric and magnetic fields which move along in tandem with each other.
+
+They are sort of co-arising and co-evolving in that but they are mutually related by harmony. Actually harmonics in the case of physical phenomena.
+
+I quote from a paper by McDonough: Minds unfold teleologically, that is, they act for the sake of ends. Bodies unfold efficiently, that is, they are driven along by efficient causes in accordance with the laws of nature.
+
+Locations in the conceptual landscape has more than one route to approach them. I attempt to list the resources which shows a fellow knowledge seekers on how to access those points through these alternative routes/representations off the mainstream. multiple routes to the same location. This is a map for those knowledge seekers who want an alternate route to learn same ideas but off the mainstream approaches.
+
+There is an idea here on how Galileo’s laws presupposes that they are the necessary ones and in Bayle’s who he attributes this view to, who considers the laws as contingent. God could have created the world differently, being indifferent to the laws we unearth about how things are related.
+
+Using this distinction Leibniz then posits a third position whereby God exercises moral freedom on the necessary and the contingent. This is what connects it up with the best of all possible worlds. Which was lampooned by Voltaire etc. towards the 19th century.
+
+Entelechies and how nature has to be grounded in goal-directed and teleological frameworks
+
+This is leading me on to read more about entelechies and how it’s meaning iteratively bifurcated in the medieval times.
+
+Leibniz’ idea derives from a position of arguing that rejecting a teleological explanation is neither necessary nor prudent.
+
+Variational principles and how that as affirming that there’s teleological design throughout nature.
+
+So this harmony between efficient and final causation. Between the teleological and empirical is one of the central thrust of Leibniz’ conception.
+
+Monads are causally isolated from both bodies and other monads. Another interesting aspect is that monads don’t occupy spacetime, they are sort of ideal constructs.
+
+I have to investigate the idea of the modalities as it was discussed in medieval philosophy deeper. This is not just philosophical interest, but I have been seeing that this is the way by which adjoint modalities in category theory are used to supply the ground work for Lawvere’s work in creating the appropriate ground for continuum mechanics using Category Theory.
+
+"A possible interpretation of the Leibnizian theory may be closer to the Kantian philosophy: space and time do not exist as completely independent instances or continua, but they make sense only in the subjectively generated contents of the observer’s consciousness. The monad is this energetic observer, who after all lacks any windows; the monad is not located in space. However, it knows the space because it possesses the ability to perceive both the innate, necessary, tautological truths of reason, and the contingent truths of empirical facts."
+
+This is about to get into real speculative territory here, but I think we can use the metaphor of the Apollonian Gasket to understand how the monads or teleology is the bed rock from which the apparent world of physicality is enacted. Think of folding our fingers at will, this I think is similar to the monads coordinating among themselves to create a reflective "mirage" by which this is enacted in the world. I am treading seriously into the Plotinus realm here, but I think wonder how much this idea of mandalas drawn out by monads can be made to align with current physical paradigms. Continuum mechanics I think gets close to these ideas. Need to dig in there.
+
+Also, I thought this vibed much with Alexandrian centers: ”In 1687, Leibniz produced the principle of continuity by considering the concept of infinity in geometry. Later, he solved the problem by considering real but strictly individual dynamic centers, whose qualitative, causal, gradual interaction generates mechanical interactions at the level of phenomena and consequently apparent changes ariculated in the virtual continua of space and time.”
+
+Hypothesis non fingo became a hallmark of empirical philosophy to the point of extrication of final cause from modern science. On slaughte against metaphysical speculations and the establishment of Russell's logic and the rise of positivism all helped in this trend.
+
+Leibniz composed Monadology in contrast to Cartesianism and Locke’s conception of space as he found them incomplete.
+
+TODO: Read up about Cartesian interactionism
+Leibniz on causation
+Occasionalism
+
+* From dichotomy to duality via pre-established harmony
+
+Leibniz’ metaphysics can be thought of as a superimposition of the ideas he found within mathematics. He said:
+
+    Sans les mathématiques on ne pénétre point au fond de la philosophie.  
+    Sans la philosophie on ne pénétre point au fond des mathématiques.
+    Sans les deux on ne pénétre au fond de rien.
+
+    Without mathematics one does not penetrate to the depths of philosophy.
+    Without philosophy one does not penetrate to the depths of mathematics.
+    Without both one cannot penetrate to the bottom of anything.
+
+By abstracting and polishing the ideas he found in math he enriched his philosophy and did the converse with mathematics. So in a sense, his architectonic theory derives from insights derived both from math and philosophy put together to give shape to the ultimate abstractions that govern our material lives and for this he gave priority to psychology or teleology as the final cause.
+
+** Leibniz and Cartesian divide
+
+Gunther Schelhammer, Sturm, Bayle
+
+** Unifying scholasticism with mechanistic philosophy
+
+In the 17th century philosophy, quantity and transformation takes precedence over quality and categorization.
+
+** Free will as co-existing with determinism
+
+This also calls into question the hard determinism idea that there’s no cause but an infinitely long chain leading to fatalism. So occasionalism in my point of view is sort of a particular perspective where you don’t fall for fatalism or for the other end. Pre-established harmony is squarely situated in the middle of this.
+
+** May be share that monadology site by Bruno?
+
+Incorporeal automatons of Leibniz are much closer to the idea of coalgebra where you only have access to the observable properties of a thing. There is also a connection between how algebra enables us to study polysemous polynomials. Multipart-multiinterpretational structures.
+
+** Speculative part with connection to order theory / closures
+
+This is similar to the idea developed with monads.
+Monads as capturing non-determinism aspect
+Ordered sets and monoids on functions
+
+Monad is a monoid in the category of endofunctors
+
+Monoid (Ordered set) of functions
+
+Left and right projections of a monoid formed thus gives us new information and lets go of the isomorphism. 
+
+Because if we know the isomorphism, then in an Eleatic sense, there is no newness. It is all just permutations or (eternal) recurrence of what already exists.
+
+I don't really think the functional core imperative shell is the only solution out from here. There is imperative lambda calculus. And a lot of exciting work on effects which I should investigate.
+
+And there is also this really nice post detailing how to structurally think about algebraic effects.
+
+There is symmetric lambda calculus that links up with the duality
+
+Actor model
+
+Ocean of indeterminism
+
+Church-Turing thesis has this quality in which you can turn the outside to the inside.
+
+Because if you think from within the world of ideality, any non-determinism is just a chain of reduction inside it.
+
+There is a sort of anamnesis that has happened in the outside world, but the ideal world is atemporal and eternal. Not having this distinction in mind I think leads to a lot of confusion and fan fights 😛
+
+Connects with what I told about the need for memory when reducing. Context sensitivity in reduction is a hard thing, because if you forget the way in which you come from, what you do is entirely different from what you would do without retaining this memory.
+
+Longo’s ideas of memory in beings connect with this but I am not sure if I should mention this here.
+
+And this part is not entirely clear to me yet, but I think this is a strong reason why above context free languages, we are having a hard time to locate the best algebraic structures to create a composition which has a memory of it's state.
+
+I also think this is a place where coalgebraic notions would excel, but I should keep quiet and finish that essay I am writing on it. There are so many cool ideas in the math/philosophical space that pair up in this space!

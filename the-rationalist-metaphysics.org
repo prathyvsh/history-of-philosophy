@@ -1,6 +1,20 @@
-* The Rationalist Metaphysics
+* Rationalist Metaphysics
 
-* Connection with anamnesis
+A narrative account of how the rationalist metaphysics unfolded with relevant pointers to mathematics, programming, and interface designing.
+
+[Egyptian/Babylonian Mythology]
+[Thales and the Presocratics]
+[Eleatic vs. Heraclitean]
+[Plato, Aristotle]
+[Skepticism]
+[Arab school]
+[Medieval]
+[Early Rationalists: Bacon, Descarts, Galileo]
+[Leibniz, Spinoza, Pascal]
+[Kant, Hegel]
+[Fichte, Schelling, Schopenhauer, Nietzche]
+
+* Anamnesis and World of Forms
 
 To learn is to forget
 
@@ -12,11 +26,25 @@ Perhaps this discussion group slides are the most accessible ones I have found t
 
 In computer science they turn out to be really useful concepts. Recently, Jimmy Koppel wrote about them.
 
+Block Universe JPG / DSL idea as in algebraic effects post
+
 * Aristotelian metaphysics
 
 This is reflected in its logical counterpart as subject vs. predicate distinction. This would mean that the attributes inhere in substances and not the other way around. Therefore, substances are the ultimate constituents of reality.
 
 Aristotelian science classified substances into genera and species. The new science of Bacon and Galileo took quantity and not quality as the decisive factor in the explanation of change. Individual vs. species vs Quantitative or ‘mass’ terms.
+
+** Things vs. Stuff
+
+Thing vs. Stuff: Thing can be counted, stuff can only be measured. Ordinality vs. Cardinality
+
+Dense order as that which has no cover. The idea of infinite divisibility. TODO: Link up to continuity vs. discrete
+
+This tradeoff can be seen to reoccur in modern times as ordinal vs. cardinal bases are chosen in mathematics.
+
+Aristotelian idea of primary and accidental substances
+
+The difficulty is said to be that of forcing the idea of quantity, or stuffness into a framework of thingness, namely the substance, attributes, modes, subject, and predicate. This change I think is also related to the way in which induction starts getting advantage over deduction.
 
 ** Cumulativity/Distributivity/Collectivity.
 
@@ -25,16 +53,13 @@ General
 Element of the species
 Or a predicate
 
-Thing vs. Stuff: Thing can be counted, stuff can only be measured. Ordinality vs. Cardinality
-
-Aristotelian idea of primary and accidental substances
-
-The difficulty is said to be that of forcing the idea of quantity, or stuffness into a framework of thingness, namely the substance, attributes, modes, subject, and predicate. This change I think is also related to the way in which induction starts getting advantage over deduction.
-
 Induction has this internal vs. external perspective shift among things. Every vs. All.
 
-Ontological proof of existence of God
+** Ontological proof of existence of God
+
 Attributed to Anselm of Canterbury, but rudimentary forms of it exists in the original Aristotelian canon, and also in commentaries by Ibn Sinna and Al-Farabi. A being whose essence involves existence. The idea of something perfect exists in our minds, if something like this wouldn’t exist in reality, then we would be able to transcend it, by claiming that the perfect thing lacks the attribute of real existence, which contradicts the original proposition, hence it should exist in reality too. In other words, it is a necessary truth that the a most perfect being exists.
+
+** Agrippa’s Trilemma
 
 Contradictions to this:
 Paraconsistent interpretations:
@@ -157,16 +182,16 @@ TODO: Sketch out how God is not ‘in time’ for Spinoza but consists of eterni
 Concursus Dei vs. Praevius Dei
 Occassionalism different from pre-established harmony
 
+* Monads and object oriented programming
+Inter vs. Intra distinction
+
+* Occasionalism
+
 Give a brief sketch of occasionalism
 
 Give its strong points
 
 Then detail where the objects arose in Leibniz work
-
-* Monads and object oriented programming
-Inter vs. Intra distinction
-
-* Occasionalism
 
 Occasionalism is still around
 
@@ -300,6 +325,8 @@ Gunther Schelhammer, Sturm, Bayle
 
 ** Unifying scholasticism with mechanistic philosophy
 
+Early on, Leibniz was interested in scholastics, but he found the mechanistic philosophy to give more applicable results. This would further in his life reflect as a preference for not including scholastic terminology for the explanation of physical phenomena, but employing Aristotelian ideas in giving an ontological grounding for them.
+
 In the 17th century philosophy, quantity and transformation takes precedence over quality and categorization.
 
 ** Free will as co-existing with determinism
@@ -351,3 +378,16 @@ I also think this is a place where coalgebraic notions would excel, but I should
 ** Kantian tripartite categories
 
 ** How the original Platonic vs. Pyrrhonic viewpoint shifted into Rationalist vs. Skeptic dialectic and how that transformed into modern constructivist vs. structuralist ideas.
+
+* Bibliography
+
+** Read
+
+*** The Geometric Method
+*** Descartes: A Very Short Introduction
+*** Leibniz: A Very Short Introduction
+*** Spinoza: A Very Short Introduction
+
+
+** To Read
+** Continuous vs. Discrete

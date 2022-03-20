@@ -4,6 +4,7 @@
 | Space and Time as Relations: The Theoretical Approach of Leibniz | Basil Evangelidis | 2 April 2018 | 15 | 2 January 2022 |
 | [[#leibniz-on-pre-established-harmony-and-causality][Leibniz on Pre-established Harmony and Causality]] | Jeffrey K. Mconough | 2017 | 20 | 19 December 2021 |
 | [[#the-role-of-leibniz-and-haldane-in-weiners-cybernetics][The Role of Leibniz and Haldane in Weiners Cybernetics]] | George Gale | 1997 | 16 | 16 January 2021 |
+| [[#leibniz-and-some-aspects-of-field-dynamics][Leibniz and Some Aspects of Field Dynamics]] | George Gale | 20 | |
 
 * [[https://res.mdpi.com/philosophies/philosophies-03-00009/article_deploy/philosophies-03-00009.pdf?filename=&attachment=1][Space and Time as Relations: The Theoretical Approach of Leibniz]]
 Basil Evangelidis (2018)
@@ -127,7 +128,7 @@ If the movement of the water in the thought experiment was only relative, yaw fo
 
 This is not the absolute motion of Newton, but true motion relative to another body. Leibniz characterized the true motion as a subcase of relative motion: the actual motion is relative movement whose cause is the body that really moves. He believed that the centrifugal and centripetal movement are examples of dead forces (potentia mortuus) that are infinitely weaker than the living force. What was, according to Leibniz, real and absolute in motion was the driving force, a tendency to move that consists in vis viva, a real and substantial entity, a fundamental absolute quantity which is inherent in substances.
 
-** 3.1 The Matter, the Body, and the Coincident movement
+** 3.1 The Matter, the Body, and the Coincident movementΩ
 
 Newtonian physics was unthinkable without corpuscles. On the contrary, Leibniz rejected the ultimate existence of ultimate, indivisible, firm material particles. Matter is real multiplicity, a cumulative entity consisting of an infinite number of unit.s It is discontinuous and actually infiniitely divided. However, there is no part of space without matter. The matter itself is homogeneous, equally divisible anywhere, and varies with the motion.
 
@@ -332,6 +333,52 @@ It is likely that Leibniz believes just as his scholastic predecessors believed,
 Leibniz’s famous pre-established harmony between minds and bodies is thus underpinned by a pair of less widely recognized causal harmonies, one within the realm of bodies, one within the realm of minds.
 
 ** [[https://www.researchgate.net/profile/George-Gale-2/publication/262278420_The_role_of_Leibniz_and_Haldane_in_Wiener%27s_cybernetics/links/57dfe4ad08ae484409238ffd/The-role-of-Leibniz-and-Haldane-in-Wieners-cybernetics.pdf][The Role of Leibniz and Haldane in Weiner’s Cybernetics]]
+
 George Gale
+
 1997
+
 16 pages
+
+** [[https://www.researchgate.net/profile/George-Gale-2/publication/265310162_Leibniz_and_some_aspects_of_field_dynamics/links/5bfc1a15458515b41d0f7260/Leibniz-and-some-aspects-of-field-dynamics.pdf?origin=publication_detail][Leibniz and Some Aspects of Field Dynamics]]
+
+Leibniz and the link between Boscovich.
+
+Conservation Theory vs. Atomistic Theory
+
+Dualist vs. non-dualist conception of matter and force
+Newton is said to be a dualist while Leibniz/Kant/Boscovich is non-dualist. Faraday is said to be difficult to classify but ultimately seems to belong to non-dualist.
+
+Three features of Leibniz’ conception of field theory:
+
+1) They are ant-corpuscularian and continuistic; hence thy are opposed to the discrete view of matter and opposed to action-at-a-distance
+2) Dynamical in the sense of offering an interpretation of phenomena which is grounded in forces, rather than grounded in matter-as-pure-corporeal-extension
+3) Non-dualistic, that is, they do not lend themselves to a twocategory, matter anhd force, account of phenomena
+
+II. Characteristic of Leibniz’ Ontology of Forces
+
+Three levels of Leibniz’ Ontology:
+
+Primary Level
+Monads
+
+Corporeal Level
+Primitive Active Force ~ Aristotelian form
+Primitive Passive Force ~ Aristotelian matter
+
+Not physical but inferential referents that lie at the limit of observation
+
+Extension is an observable but not a simple property of corporeal substances as it is further analyzable. It depends ultimately upon force, the tendency of things to act. The corporeal substance is not an entity which exhibits two equally primitive properties i.e. extensional properties and force properties. Rather extension is the derived property. It is the phenomenal manifestation of the activity of the underlying and fundamental forcething.
+
+Leibniz attacked the Cartesian position that mv was a conserved quantity and instead along with Huygens proposed the quantitive ½mv² as the conserved quantity.
+
+Body Level
+
+
+** Next Reads
+
+The Physical Theory of Leibniz - George Gale
+
+Did Leibniz Have a Practical Philosophy of Science; or, Does ‘Least-work’ Work? - George Gale
+
+Physics and Metaphysics in Newton, Leibniz, and Clarke - M. R. Perl

@@ -4,7 +4,7 @@
 | Space and Time as Relations: The Theoretical Approach of Leibniz | Basil Evangelidis | 2 April 2018 | 15 | 2 January 2022 |
 | [[#leibniz-on-pre-established-harmony-and-causality][Leibniz on Pre-established Harmony and Causality]] | Jeffrey K. Mconough | 2017 | 20 | 19 December 2021 |
 | [[#the-role-of-leibniz-and-haldane-in-weiners-cybernetics][The Role of Leibniz and Haldane in Weiners Cybernetics]] | George Gale | 1997 | 16 | 16 January 2021 |
-| [[#leibniz-and-some-aspects-of-field-dynamics][Leibniz and Some Aspects of Field Dynamics]] | George Gale | 20 | |
+| [[#leibniz-and-some-aspects-of-field-dynamics][Leibniz and Some Aspects of Field Dynamics]] | George Gale | 20 | 6 Apr 2022 |
 
 * [[https://res.mdpi.com/philosophies/philosophies-03-00009/article_deploy/philosophies-03-00009.pdf?filename=&attachment=1][Space and Time as Relations: The Theoretical Approach of Leibniz]]
 Basil Evangelidis (2018)
@@ -375,6 +375,8 @@ Leibniz attacked the Cartesian position that mv was a conserved quantity and ins
 Body Level
 
 Leibniz posits that if two atoms as undividable units are held together, the glue that holds them together will present the problem of an infinite regress where further atoms may be found.
+
+The paper closes by detailing some of the complex interrelationships between the field theory of Boschovich and the precursor ideas in Leibniz.
 
 ** Next Reads
 

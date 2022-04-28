@@ -5,6 +5,7 @@
 | [[#leibniz-on-pre-established-harmony-and-causality][Leibniz on Pre-established Harmony and Causality]] | Jeffrey K. Mconough | 2017 | 20 | 19 December 2021 |
 | [[#the-role-of-leibniz-and-haldane-in-weiners-cybernetics][The Role of Leibniz and Haldane in Weiners Cybernetics]] | George Gale | 1997 | 16 | 16 January 2021 |
 | [[#leibniz-and-some-aspects-of-field-dynamics][Leibniz and Some Aspects of Field Dynamics]] | George Gale | 20 | 6 Apr 2022 |
+| [[#a-leibnizian-theory-of-concepts][A (Leibnizian) Theory of Concepts]] | Edward Zalta | 29 | 28 Apr 2022 |
 
 * [[https://res.mdpi.com/philosophies/philosophies-03-00009/article_deploy/philosophies-03-00009.pdf?filename=&attachment=1][Space and Time as Relations: The Theoretical Approach of Leibniz]]
 Basil Evangelidis (2018)
@@ -229,7 +230,7 @@ Of special significance was Leibniz’s counterargument againts the mathematical
 
 Nevertheless, Newton clarified the absolute motion with his first law. Absolute motion is created or modified only by the impact of force to the (moving) body, and it changes with any impact of force upon it, while the relative movement can be changed or created, without the influence of force on the relatively moving body, and it is not necessary to change with every impact of force upon it. The principle of inertia is an empirical principle, manifested as: (1) inertia of a body that remains in rest, insofar it is not influenced, but also by the impact of forces, as an escape from rest either with distractions or with resistance or gradually; and (2) as the inertia of a body that moves linearly and smoothly, insofar it is not influenced, but also as a change of direction, or an acceleration or deceleration under the impact of forces.
 
-We conclude that the two thought experiments and the arguments of Newton intended to establishe the absolute circular motion and the absolute acceleration during rotation, and they are connected to the second law of conservation of momentum, and, indeed, of the angular momentum. According to this law, the angular momentum of a partice or the main torque of an inertial system is modified only be the influence of external forces, whereas internal forces can only change the torgque of parts of the system and the angular velocity. Newton concentrated his attention on the issue of absoluet acceleration durig rotation, because a simple variation of the angular speed, can be, according to the second law, the effect of internal forces. The absolute acceleration, however, may increase the moment of inertia, the ngular momentum of the sytsem overall. In modern parlance, the dimensionalitiy of angular velocit is T⁻¹, and the one of angular acceleration T⁻².
+We conclude that the two thought experiments and the arguments of Newton intended to establishe the absolute circular motion and the absolute acceleration during rotation, and they are connected to the second law of conservation of momentum, and, indeed, of the angular momentum. According to this law, the angular momentum of a partice or the main torque of an inertial system is modified only be the influence of external forces, whereas internal forces can only change the torgque of parts of the system and the angular velocity. Newton concentrated his attention on the issue of absoluet acceleration during rotation, because a simple variation of the angular speed, can be, according to the second law, the effect of internal forces. The absolute acceleration, however, may increase the moment of inertia, the ngular momentum of the sytsem overall. In modern parlance, the dimensionalitiy of angular velocit is T⁻¹, and the one of angular acceleration T⁻².
 
 Leibnize tended to pinpoint an explanation originated with Huygens, who referred tot he cycloidal motion of ether that disturbs the matter in countless ways, from all sides, in order to address in a somewhat limited way, the inertia as resistance, absolute due to the viscosity of the fluid ive due to its density. With such claims, he derived the conclusion that every motion is either rectilinear or is reduced to a synthesis of rectilinear movements. The accelerated motion, either curved or rectilinear, was represented by Leibniz with polygonal infinitesimals as a series of smooth rectilinear motions interrupted by impulses of dead force. Newton, however, represented the accelerated motion with a continuous curve and the forces and acceleration involved are finite and not infinitesimal.
 
@@ -377,6 +378,61 @@ Body Level
 Leibniz posits that if two atoms as undividable units are held together, the glue that holds them together will present the problem of an infinite regress where further atoms may be found.
 
 The paper closes by detailing some of the complex interrelationships between the field theory of Boschovich and the precursor ideas in Leibniz.
+
+** [[http://mally.stanford.edu/leibniz.pdf][A (Leibnizian) Theory of Concepts]]
+
+Concept Summation, Concept inclusion, Complete individual concepts, possible worlds, and the containment theory of truth
+
+This work depends on the axiomatic theory of objects developed in:
+
+Abstract Objects: An Introduction to Axiomatic Metaphysics — 1983
+Intensional Logic and Metaphysics of Intensionality — 1988a
+25 Basic Theorems in Situation and World Theory — 1993
+Natural Numbers and Natural Cardinals as Abstract Objects: A Partial Reconstruction of Frege’s Grundgesetze in Object Theory — 1999
+
+Developed on two strands of Leibniz’ work:
+His work on the theory of concepts
+His work on (modal) metaphysics of individual concepts
+
+Fundamental theorem of his metaphysics of concepts:
+
+if an object x has F but might not have had F, then:
+i) the individual concept of x contains the concept F
+ii) there is a individual concept y (a counterpart of the concept of x) which doesn’t contain theh concept F and which appears at some othehr possible world.
+
+In working towards this goal, neither ‘possible world semantics’ nor set theory is used, but the goal is to build an axiomatized realm of abstract objects which have well-defined, and anteceddently-specified, existence and identity conditions.
+
+The containment theory of truth will be defined so that:
+a) it applies both to the logic and modal metaphysics of concepts
+b) it is consistent with the existence of contingent facts
+
+** Works on Concepts that doesn’t refer to Leibniz oeuvre
+- Quality and Concept — G. Bealer (1983)
+- A Theory of Concpts and Concept Posession — G. Bealer (1998)
+- The Metaphysics of Concepts — C. Peacocke (1991)
+
+** Works on concepts that develop Leibniz’s theory of concepts
+- Leibniz’s Interpretation of His Logiacl Calculi — Rescher (1954)
+— Einführung in die Theorie der Begriffsysteme — Kauppi (1960)
+— Über die Leibnizche Logick — Kauppi (1967)
+— Leibniz’s Complete Propositional Logic — Castañeda (1976)
+— Leibniz’s Syllogistico-Propositional Calculus — Castañeda (1990)
+- Leibniz’s Calculus of Real Addition — Swoyer (1994)
+- Leibniz on Intension and Extension — Swoyer (1995)
+
+** Those that treat the modal metaphysics but doesn’t address the theory of concepts
+- Leibniz on Possible Worlds — Mates (1968)
+- Reference, Essentialism, and Modality in Leibniz’s Metaphysics — Mondadori (1973)
+- Analyticity and Necessity in Leibniz — G. Fitch (1979)
+
+§ 1: Concepts, Properties, and Concept of Properties
+
+The concept F contains the concept G iff concept F is identical with the sum of the concept F and the concept G.
+
+Swoyer designates this principle ’Leibniz’ Equivalence’.
+
+A) F ≥ G ≡ F = F ⊕ G
+
 
 ** Next Reads
 

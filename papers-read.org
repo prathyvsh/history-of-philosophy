@@ -6,6 +6,7 @@
 | [[#the-role-of-leibniz-and-haldane-in-weiners-cybernetics][The Role of Leibniz and Haldane in Weiners Cybernetics]] | George Gale | 1997 | 16 | 16 January 2021 |
 | [[#leibniz-and-some-aspects-of-field-dynamics][Leibniz and Some Aspects of Field Dynamics]] | George Gale | | 20 | 6 Apr 2022 |
 | [[#a-leibnizian-theory-of-concepts][A (Leibnizian) Theory of Concepts]] | Edward Zalta | | 29 | 28 Apr 2022 |
+| [[#aristotle-the-scale-of-nature-and-modern-attitudes-to-animals][Aristotle, The Scale of Nature, and Modern Attitudes to Animals]] | Juliet Clutton-Brock | 1995 | 20 |  3 June 2023 |
 
 * [[https://res.mdpi.com/philosophies/philosophies-03-00009/article_deploy/philosophies-03-00009.pdf?filename=&attachment=1][Space and Time as Relations: The Theoretical Approach of Leibniz]]
 Basil Evangelidis (2018)
@@ -433,6 +434,38 @@ Swoyer designates this principle ’Leibniz’ Equivalence’.
 
 A) F ≥ G ≡ F = F ⊕ G
 
+* [[https://www.jstor.org/stable/40971103][Aristotle, The Scale of Nature, and Modern Attitudes to Animals]]
+
+The article starts out by detailing how Aristotle’s ideas differed from that of Plato’s.
+
+A brief description of Plato’s hierarchy is given and it is described how it is a dichotomous division until ultimate species are reached which is thought to be a system opposite to Linnaeus.
+
+TODO: I have to understand how Plato’s system is binary and how Linnaeus system is binary. I think Plato‘s is literally a binary tree in its semantics, whereas, Linnaeus binary tree is only binary in its syntax where genus and species names are combined into one name but the referrents could have a less strict graph structure underneath describing the containments.
+
+
+Principle of Plenitude and Great Chain of Being are described to work in harmony to produce variety. A curious aspect outlined is how the idea of plenitude was opposed to the idea of extinction because since there was a dictum like nature to the idea that the variety in the world always increases.
+
+TODO: How exactly was the Scale of Nature refined by the medieval theologians?
+
+Five properties of categorization are mentioned: Genus / Species / Differentia / Property / Accident
+
+I think it formally begins from substance / accident higher up.
+
+Genus: Part of essence. Some attribute in common to all.
+Species: Group of things similar in essence
+Differentia: What distinguishes species among each other
+Property: Attribute shared by all members of a species, that is not part of essence and not necessary to distinguish it.
+Accident: Attribute shared by some members and not part of its essence.
+
+TODO: I think it requires further look from my end on how exactly these interplay to create a hierarchy.
+
+There is also the idea of a sort. I think this relates to many sorted logic.
+
+5 predicables and this finally evolving into Linnaeus system is outlined.
+
+Internal finality is shown to be an idea which lead to a discrete classification in the essay, but I felt that this part was not elucidated properly in a way that makes legible on how exactly this leads to a discrete classification.
+
+After the part of covering history, the author goes on a tirade saying how animals being treated today have been influenced by these philosophical viewpoints. While this critique is well intended and heartfelt, keeping it to the end of the essay made it a bit of abrupt and stand out from the movement of the rest of the essay. I think by melding the arguments throughout the essay from the beginning, and then slowly working up to the conclusion rather than putting it as a separate section would have added to the mettle of the argument and made it far more forceful. Right now, as it stands, it is a bit of a social commentary that is adjoined in a non-concordant fashion to a historical review of Aristotelian classification.
 
 ** Next Reads
 

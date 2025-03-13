@@ -271,7 +271,12 @@ Diallelos Tropos
 
 * Alexander of Aphrodisias (fl. 200 A.D.)
 
-** Peripetatic philosopher
+Peripatetic philosopher
+Aphrodisias, Caria, Greece
+
+Most celebrated Ancient Greek commentator of Aristotle.
+
+As his commentaries on Aristotle were so useful, he was styled as "the commentator".
 
 * Plotinus (205 – 270 A.D.)
 
@@ -297,13 +302,72 @@ Pupil of Plotinus
 
 ** Elements of Theology
 
+* Themistius (317 - c. 388)
+Nicknamed Euphrates
+
+Born in Paphlagonia (modern day Turkey)
+Died Constantinople (modern-day Istanbul Turkey)
+
+Held that Plato and Aristotle were in substantial agreement and also that Christianity and Hellenism were merely two forms of the one universal religion.
+
 * Calcidius (fl. 4th century A.D.)
 
 * Marcus Vitriuvius Pollio (80/70 B.C – 15 B.C.)
 
-* Boethius (c. 477 – 524 A.D.)
+* Boethius
+(c. 477 – 524 A.D.)
 
 ** The Consolation of Philosophy
+
+* Ammonius Saccas
+(175 A.D. - 243 A.D.)
+Platonist
+Hellenistic Platonist philosopher from Alexandria
+
+Regarded as the precursor of Neoplatonism
+Teacher of [[/#plotinus][Plotinus]]
+
+Confused with a different [[/#ammonius-of-alexandria][Ammonius of Alexandria]]
+
+[[/#hierocles-of-alexandria][Hierocles] states that he considered Aristotle and Plato to be in full Agreement.
+
+Students: [[/#origen-the-pagan][Origen the Pagan]] and [[/#cassius-longinus][Longinus]].
+
+Nemesius refers to Ammonius Saccas as the teacher / master of Plotinus
+
+* Ammonius of Alexandria (fl. 3rd century A.D.)
+
+Christian philosopher
+
+* Origen the Pagan
+
+Student of [[/#ammonius-saccas][Ammonius Saccas]] and contemporary of [[/#plotinus][Plotinus]] and [[/#cassius-longinus][Longinus]].
+Considered to be the same as [[/#orign-of-alexandria][Origen of Alexandria]]
+
+Mentioned three times in Porphyry's Life of Plotinus where he is treated more kindly that the Christian Origen whom Porphyry disliked. Also mentioned by Proclus.
+
+* Cassius Longinus
+(c. 213 A.D. – 273 A.D.)
+
+Greek rhetorician
+Born in Emesa, Syria
+
+Did not embrace Neoplatonism and was a tradition Platonist.
+
+Porphyry was his pupil
+
+* Hierocles of Alexandria
+
+(active around A. D. 430)
+
+Studied under Plutarch at Athens
+
+* Nemesius of Emesa (fl. A.D. 390)
+Christian philosopher
+
+Based his writing on previous work of Aristotle and Galen in physiology.
+Speculated that he anticipated William Harvey's discovery of the circulation of blood.
+Wrote on Ventricular Theory
 
 * John Philoponus (c. 490 – c. 530)
 

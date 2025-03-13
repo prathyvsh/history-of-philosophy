@@ -263,7 +263,15 @@ Diallelos Tropos
 
 * Quintillian (35 - 100 A.D.)
 
-* Origen (184 – 253 A.D.)
+* Origen of Alexandria
+184/185 – 253 A.D.
+Origen Adamantus
+
+Wrote roughly 2000 treatises in multiple branches of theolog
+
+One of the most influential / controversial figures in early Christian theology / apologetics, and asceticism.
+
+Was a student of [[/#ammonius-saccas][Ammonius Saccas]] like [[#/origen-the-pagan][Origen the Pagan]].
 
 * Plutarch (45 – 120 A.D.)
 
@@ -278,13 +286,15 @@ Most celebrated Ancient Greek commentator of Aristotle.
 
 As his commentaries on Aristotle were so useful, he was styled as "the commentator".
 
-* Plotinus (205 – 270 A.D.)
+* Plotinus
+205 – 270 A.D.
 
 ** Enneads
 
-* Poryphry (232 – 305 A.D.)
+* Porpyhry
+232 – 305 A.D.
 
-Pupil of Plotinus
+Pupil of [[/#plotinus][Plotinus]]
 
 * Iamblichus (c. 245 – c. 325)
 
@@ -369,7 +379,34 @@ Based his writing on previous work of Aristotle and Galen in physiology.
 Speculated that he anticipated William Harvey's discovery of the circulation of blood.
 Wrote on Ventricular Theory
 
-* John Philoponus (c. 490 – c. 530)
+* John Philoponus
+(c. 490 – c. 530/570)
+
+John the Grammarian or John of Alexandria
+
+Coptic Miaphysite philologist, Aristotelian commentator, and Christian theologian from Alexandria
+
+Book from the Aristotelian-Neoplatonic tradition, eventually lead to empiricism in the natural sciences.
+
+* Simplicius of Cilicia (c. 480 – c. 540)
+
+Disciple of [[/#ammonius-hermaiae][Ammonius Hermaiae]] and Damascus
+
+One of the last of the Neoplatonists.
+
+* Ammonius Hermaiae
+c. 440 A.D. – (517-526) A.D.
+Alexandria
+
+Pupil of [[/#proclus][Proclus]]
+
+Taught [[/#damascus][Damascus]], Olympiodorus of Thebes, [[/#john-philoponus][John Philoponus]], Simplicius of Cilicia, and Asclepius of Tralles, Gessius of Petra, Zacharias Rhetor.
+
+* Damascus
+(c. 462 – c.  538)
+Know as the last of the Athenian Neoplatonist
+
+Born in Damascus and Died in Alexandria.
 
 * Pseudo-Dionysius the Areopagite (fl. 5th-6th century A.D.)
 
@@ -431,11 +468,100 @@ He wrote a lot of manuscripts on various phenomena and had an experential slant 
 
 * Meister Eckhardt (c. 1260 – 1327)
 
-* Marsilio Ficino (1433 – 1499)
+* Paul of Venice
+(c. 1369–15 June 1429)
+Founding figure of Renaissance Averroism
+a.k.a. Paulus Venetus 
+
+Italian Catholic philosopher / theologian / logician / metaphysician of the Order of Saint Augustine)
+
+Paul's philosophy is categorised within the realist tradition of medieval thought.
+
+* Alessandro Achillini
+(1463-1512)
+
+Italian philosopher and physician. Known for anatomic studies which stimulated Mondino de Luzzi
+
+Styled as the second Aristotle.
+
+* Elijah del Medigo (1458 - 1493)
+Also known as Helias Hebreus Cretensis
+
+According to Jacob Joshua Ross, Some classify him as an Averroist, he saw himself as the follower of Maimonides. Other scholars consider him a strong follower of Averroes
+
+Born in Island of Crete.
+
+Influenced Giovanni Pico dell Mirandola
+
+* Nicoletto Vernia
+
+(c. 1420 - 31 October, 1499)
+
+Italian Averroist Philosopher
+
+Was primarily a supporter of Averroes' interpretation of Aristotle, but later moved on from it.
+
+Students: [[#/agostino-nifo][Agostino Nifo]], [[/#pietro-pomponazzi][Pietro Pomponazzi]]
+
+* Agostino Nifo
+(c. 1469/1473-1538/1545)
+Italian philosopher and commentator.
+
+Opposed the theory of [[/#pietro-pomponazzi][Pietro Pomponazzi]] that the rational soul is inseparably bound up with the material part of the individual and hence that the death of the body carries with it the death of the soul. He insisted that the soul as part of the absolute intellect is industrctible and on death of the body it is merged in the eternal unity.
+
+Pupil: Gian Giacomo Adria
+
+Was primarily a supporter of Averroes' interpretation of Aristotle, but later moved on from it.
+
+* Pietro Pomponazzi
+(16 September 1462 – 18 May 1525)
+Italian philosopher
+Colleague of [[/#alessandro-achillini][Alessandro Achillini]]
+
+Developed his views within the framework of natural philosophy.
+
+Sought to eliminate supernatural explanations in that he targeted the popular belief that miracles are produced by angels and demons. Used interpretations of Aristotle to claim that the highest activity of the intellect, the attainment of universals in cognition is always mediated by sense impression and therefore based on philosophical premises and Aristotelian principles, the conclusion is that the entire soul dies with the body.
+
+This housed violent oppositions and led to a spate of books written against him.
+(Source: https://iep.utm.edu/renaissa/)
+
+Influenced Cesare Cremonini
+
+* Mondino de Luzzi
+(c. 1270 - 1326)
+Credited as the restorer of anatomy
+
+* Marsilio Ficino
+(1433 – 1499)
 
 Translated all extant works of Plato into Latin.
 
 ** Florentine Academy
+
+* Jacopo Zabarella
+
+(5 September 1533 – 15 October 1589)
+Italian Aristotelian philosopher and Logician
+
+Teacher: Francesco Robortello in humanities
+Bernardino Tomitano in Logic
+Marcantonia Genua in Physics
+Pietro Catena in Mathematics
+
+Produced work on nature of logic and scientific method. His goal was the retrieval of the genuine Aristotelian concepts of science and scientific method. Developed the method of regresses, combination of the deductive procedures of composition and the inductive procedures of resolution.
+
+He aimed to differentiate the sciences from the arts. 
+
+There were two senses of his idea of method: He called ordo/order of presentation which is used as a method of presenting existing knowledge and a narrow sense as a method of discovering knowledge which he reserved for methods in its proper understanding.
+
+He disagreed with Galen's view that there are four kinds of methods of presentation.
+
+Compositio/synthesis (methodus compositiva) is used in the contemplative or theoretical sciences that aim at perfect knowledge. Here the order of presentation follows the way of composition from general principles to particular beings. In moral philosophy and arts which aim at action or production, order follows the way of resolution (methodus resolutiva resolutio/analysis) from the desired end to its first principles.
+
+It is said that if Ramus is the anti-Aristotelian pole, then Zabarella can be considered as the Aristotelian representative.
+
+Main works are the Opera logic (1578)
+Work on natural philosophy De rebus naturalises (1590)
 
 * St. John of the Cross (1542 – 1591)
 

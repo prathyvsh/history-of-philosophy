@@ -7,6 +7,7 @@
 | [[#leibniz-and-some-aspects-of-field-dynamics][Leibniz and Some Aspects of Field Dynamics]] | George Gale | | 20 | 6 Apr 2022 |
 | [[#a-leibnizian-theory-of-concepts][A (Leibnizian) Theory of Concepts]] | Edward Zalta | | 29 | 28 Apr 2022 |
 | [[#aristotle-the-scale-of-nature-and-modern-attitudes-to-animals][Aristotle, The Scale of Nature, and Modern Attitudes to Animals]] | Juliet Clutton-Brock | 1995 | 20 |  3 June 2023 |
+| [[#aristotle-as-a-cuttle-fish][Aristotle as a Cuttlefish: The Origin and Development of a Renaissance Image]] | C. B. Schmitt | 1965 | 13 | 3 March 2025 |
 
 * [[https://res.mdpi.com/philosophies/philosophies-03-00009/article_deploy/philosophies-03-00009.pdf?filename=&attachment=1][Space and Time as Relations: The Theoretical Approach of Leibniz]]
 Basil Evangelidis (2018)
@@ -466,6 +467,50 @@ There is also the idea of a sort. I think this relates to many sorted logic.
 Internal finality is shown to be an idea which lead to a discrete classification in the essay, but I felt that this part was not elucidated properly in a way that makes legible on how exactly this leads to a discrete classification.
 
 After the part of covering history, the author goes on a tirade saying how animals being treated today have been influenced by these philosophical viewpoints. While this critique is well intended and heartfelt, keeping it to the end of the essay made it a bit of abrupt and stand out from the movement of the rest of the essay. I think by melding the arguments throughout the essay from the beginning, and then slowly working up to the conclusion rather than putting it as a separate section would have added to the mettle of the argument and made it far more forceful. Right now, as it stands, it is a bit of a social commentary that is adjoined in a non-concordant fashion to a historical review of Aristotelian classification.
+
+* [[https://www.jstor.org/stable/2857069][Aristotle as Cuttlefish: the Origin and Development of a Renaissance Image]]
+
+The anti-Aristotelian movement is said to grow from the humanist critique of the late fourteenth and fifteenth century.
+
+It is said that the objections to Aristotle’s work was based on sound philosophical and scientific principles.
+
+But it brought with it much rhetorical bombast which was meant to cast aspersions on Aristotle’s work.
+
+Valla, Agricola, Ramus on logic or Bruno, Patrizi, or Bacon on natural philosophy criticised Aristotle and Aristotelians.
+
+Peripatetic Philosophy → Arab School of Aristotelianism → Padua School ? → Scholastic → Middle Ages with Aquinas/Thomism → Renaissance → 17th century (who?)
+
+Aristotle is compared to the cuttlefish which obscures himself in his own ink when he feels himself about to be grasped. This is a composite of arguments used by several writers to discredit Aristotle. In author’s view, it was first put forth by Atticus, the Platonist who lived in the second century A. D. Atticus wanted to revive an orthodox brand of Platonism and wanted to root out the Peripatetic teachings that had crept into the Academy.
+
+He rejected the Peripatetic teachings regarding the soul, providence, and the eternity of the world. He said Aristotle was like a cuttlefish that makes themselves hard to catch by their darkness. This was transimmeted by Eusebius to the modern world where it attained popularity.
+
+Eusebius’ Preparation evangelical has been preserved, but it does not seem to have been known during the Latin Middle Ages. It gained popularity in the 15th century through Latin translation of Trapezuntius. This work by Trapezuntius was unreliable as it had omissions and mistranslations and also attempts to ‘correct’ certain views of Eusebius which were considered heretical. It omitted the passage about the cuttlefish.
+
+So, Atticus’ simile was unavailable in Latin translations and the Greek text was not easily accessible until nearly the middle of 16th century.
+
+The first use of the simile in the modern world that Schmitt has been able to locate is in Angelo Poliziano’s Miscellanea dated ~1489. Poliziano might have accessed Praeparatio evangelicals Greek manuscript which was preserved in the Medici Library to which Poliziano had access. Poliziano talks about the cuttlefish using it’s technique of ejecting an ink to elude its captor/fisherman.
+
+Aristotle is said to be the first person to describe the action of the cuttlefish accurately. It later became common knowledge in the ancient world, both Greek and Latin. Gianfrancesco Pico uses the same figure twice in his anti-Aristotelian treatise Examen vanitatis doctrine gentian.
+
+It appears in Mario Nizolio’s De verbs principles et vera ration philosophandi contra pseudophilosophes (1553). Nizolio follows Gianfrancesco Pico’s formulation almost word for word.
+
+Aristotle’s obscurity is again likened to the behaviour of the cuttlefish by Platonist philosopher Francesco Patrizi. Patrizi attributes the saying to Themistius rather than to Atticus. A search through Themistius’ writings by Schmitt hasn’t revealed the use of the simile. Antonio Possevino also mentions both Atticus and Themistius in connection with the quote. Alard of Amsterdam and Joseph Glanvill also mentions Themistius as the source.
+
+Other examples found in Jacopo Mazzoni, Tomasso Campanella seem to be derived from Gianfrancesco Pico.
+In Alard of Amsterdam’s writing too, we find the saying attributed to Themistius instead of Atticus.
+Jacques Charpentier’s Platonis cum Aristotele in universa philosophia comparation (1573) also has the figure.
+
+Pierre Gassendi also used this comparison in his polemic against Aristotle and Aristotelians in his Exercitationes paradoxicae adversus Aristoteleos.
+
+We also find the ‘sepia image’ in the middle of 17th century in Joseph Glanvill, an anti-dogmatic philosopher who has been called a precursor of Hume.
+
+It is said that the Renaissance anti-Aristotelian polemic borrowed ideas from Aristotle himself to ridicule him. It remained for the few like Galileo to criticise Aristotle from a more radical viewpoint. It is said that in doing so, they were able to free themselves from the Aristotelian predicament. It is said that too often the Renaissance humanists made a straw man out of Aristotle (or at least to see him as alike to the conservative Aristotelians of the universities) and to abuse him with rhetoric rather than to replace his philosophy with a superior one.
+
+Papers to read next
+
+Charles Singer - A Short History of Biology (1931)
+Basil Willey - The 17th century Background
+George Henry Lewes - Aristotle: a Chapter from the History of Science
 
 ** Next Reads
 
